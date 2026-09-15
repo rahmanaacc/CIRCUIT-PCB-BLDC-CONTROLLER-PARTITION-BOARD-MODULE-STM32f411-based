@@ -17,3 +17,22 @@ _saved-*/
 # System Files
 Thumbs.db
 Desktop.ini
+
+# KiCad Autosave & Temporary Files
+_autosave-*/
+_autosave-*
+*.tmp
+
+# Heavy 3D CAD Models (Opsional - abaikan jika file STEP terlalu besar untuk Git)
+*.step
+*.stp
+*.iges
+
+# SolidWorks & 3D CAD Files
+*.sldprt
+*.SLDPRT
+*.sldasm
+*.SLDASM
+*.stl
+*.STL
+*.STEP
