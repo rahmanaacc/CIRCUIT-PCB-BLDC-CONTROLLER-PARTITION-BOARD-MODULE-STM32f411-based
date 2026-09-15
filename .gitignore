@@ -1,0 +1,19 @@
+# VS Code Local History
+.history/
+.vscode/
+
+# KiCad Backups & Cache
+*-backups/
+*.kicad_sch-bak
+*.kicad_prl
+fp-info-cache
+_saved-*/
+
+# Gerber & Production Files
+*.gbr
+*.drl
+*.gbrjob
+
+# System Files
+Thumbs.db
+Desktop.ini
